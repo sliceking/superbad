@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/Users/stanwielga/Code/mynewsite",
+	"sourceRoot": "/Users/stanwielga/Code/superbad",
 	"sources": [
 		"themes/hugo-winston-theme/assets/scss/style.scss",
 		"themes/hugo-winston-theme/assets/scss/_normalize.scss",
