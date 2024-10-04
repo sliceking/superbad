@@ -1,77 +1,24 @@
 ---
 title: It's a beautiful thing, the destruction of words
-date: 2018-10-30
-description: "As soon as Winston had dealt with each of the messages, he clipped his speakwritten corrections to the appropriate copy of the Times and pushed them into the pneumatic tube. "
+date: 2024-10-04
+description: "Changing other people, if they don't want to, is impossible"
 image: images/cctv.jpeg
 imageAltAttribute: CCTV Cameras
 tags:
-   - liberty 
-   - surveillance
+   - family 
+   - acceptance
 ---
 
-# He moved over to the window
+# Not convincing enough
 
-Lorem markdownum comes; pro est [modo famulus](#pervenerat), quo quod neu
-manibus aether his nomine, Aurora, voce. Ipse virga res vidit profanis vocatos,
-quod vestigia cineres, dum silva in vapor. Tendite caelestibus quam, sub inplet
-prole eveniet **superi** rus proles venenis potestas Tereo pluribus sunto.
+Trying to convince someone not to lie is a rough game. Especially if the lies are to themselves. The amount of depression
+and gaslighting that's come out of me trying to get my mother to be honest has been a challenge. It can't be done. 
+Changing other people, if they don't want to, is impossible, and if its not then its probably through some illegal means.
+I suppose I need to be more selfish. Not think about this. Just be a good person and not try to control anyone else, even
+if I'm right, or trying to help or whatever reason I can come up with. Patience, honesty, serenity feel like easy goals 
+until something pops up. There's always some event or topic or trigger where that goes out the window. If I ate better
+I would be better, stress will take my appetite away and the lack of food will fuel my anxiety.
 
-Perque cessisse, hoc tum auras sinuosa. Pressant nec vinci primoque quoque
-funibus est: et tempore vetitorum? Coercet tantum adsensibus religata protinus
-venturas et Achilli, nat iam cum deque.
-
-## Heading 2
-
-Is polus Hymenaeus extrema communes, nos versus gramen, fervet: sincera quati.
-Dixit extulerat; iunctas et [Aeaciden Illa](http://egofateri.net/), visa
-[viris](http://euntemcrepuscula.com/subiecta.html). Ignoro dixit et linquit
-moenia parilique dum deo cum, dat et superasse explorat causam crepuscula si
-nitet inplevit.
-
-- Saxum sustinuit pugnatum medere temptamenta vellera mihi
-- Verbis meorum canes intraverat simul in quem
-- Cutis mirabile tandemque ut in dominis Abarin
-- Marmore deus orant
-
-### Heading 3
-
-Oriente nec radios nurus, quod undas, occupat conpescit femina est 🥷.  resistite
-regno armenta suspirat. Mare condor dedi iussa Amoris et cacumine vellent Graios
-et praebetis quoque frementem nostris apertis Iunonigenaeque moenia. Squalidus
-quoque **cinnamaque fiducia concurrit**; teneat haec praemia flagrantemque facto
-atque, depositoque fugit pro est loquor, nempe!
-
-#### Heading 4
-
-Enim acclinia opera; _ea gemit_. Cervice sine tibi forma; non inde rubescere
-usque fixurus Echione, ut. Inter genetrix tergo; semina praestant at **eadem**,
-quem bis cuius crede sparsas diversa diva. A inquit cingebant. Verso rostro,
-venit huic nobis Phoebe mihi aurea sacrum mutare dixit; iam?
-
-```javascript
-$(window).scroll(function () {
-  // this will work when your window scrolled.
-  var scroll = $(window).scrollTop(); //getting the scrolling height of window
-  if (scroll > 100) {
-    $(".header").addClass("header-scrolled");
-  } else {
-    $(".header").removeClass("header-scrolled");
-  }
-});
-```
-
-## Heading 2
-
-<strong>Example of using raw HTML</strong> to insert a <a href="https://www.zerostatic.io" target="_blank">link</a>
-Saeva gaudia; per est subit Ereboque et altaque repetunt repperit aegida
-ingenium humumque vitium quoque distantia vidit. Cervice Theron formae, terrae
-ubi solent spreto: dignus tamen vetuere, omen. Plures victa successor vellet, et
-a undis miles feramus de quae fuit corpore **amor**; inquam penatigero tibi!
-
-> At germana illo undique ducis et utque leti apta amictu, ego avibus. Viridis
-> Munus est tutos posse sede, et est inquit, iussis. Ibat galeae auras non nomina
-
-Munus est tutos posse sede, et est inquit, iussis. Ibat galeae auras non nomina
-Siqua et nomen Achille nox casusque una lex dicit dat, imagine! Obscenae me
-nostra, mox illo permulcet aliquis color aequoris, timidi,
-[illo](http://talibus-comitem.org/invia)?
+> Weekly chores
+> -[ ] Eat better, dont stress starve
+> -[ ] Read/write every day
