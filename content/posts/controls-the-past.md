@@ -1,5 +1,5 @@
 ---
-title: Who controls the past controls the future.
+title: Who controls the past.
 date: 2024-10-03
 description: "People get old, I'll get old, everything always changes"
 image: images/cctv2.jpeg

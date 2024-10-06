@@ -9,7 +9,7 @@ tags:
    - acceptance
 ---
 
-# Not convincing enough
+## Not convincing enough
 
 Trying to convince someone not to lie is a rough game. Especially if the lies are to themselves. The amount of depression
 and gaslighting that's come out of me trying to get my mother to be honest has been a challenge. It can't be done. 
