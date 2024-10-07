@@ -23,3 +23,13 @@ anti-depressants and the access to more emotions has come back. Feelings like an
 detatched, zombie-like ambivalence. As my brain levels back out, the emotions yo-yo just like when I first got on them.
 Using negative feelings as motivation felt like a failure a couple weeks ago, but now what else am I supposed to do with
 it? 
+
+
+### What is the gasoline
+
+Shame, anger, resentment. These have been the fuel in the past but I think they're unsuitable. Its hard not to use them
+when people around you are trying to ***motivate*** you with them. This is a natural way people try to motivate others.
+Use your anger and show them you are better, this is ego motivated. Which is a different kind of failure. Where is the
+solution? If lack of care is the problem how is lack of care also the solution? Don't seek recognition of your value 
+through others, don't listen to the negative voice inside, don't stop trying to do things, just do anything no matter
+how small the progress bar moves as long as its moving.
