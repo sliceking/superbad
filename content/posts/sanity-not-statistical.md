@@ -1,52 +1,25 @@
 ---
 title: Sanity is not statistical
-date: 2018-12-29
-description: 'Once again he glanced at his rival in the opposite cubicle. Something seemed to tell him with certainty that Tillotson was busy on the same job as himself. There was no way of knowing whose version would finally be adopted, but he felt a profound conviction that it would be his own'
+date: 2024-10-07
+description: 'Where do I find the motivation'
 image: images/cctv2.jpeg
 imageAltAttribute: CCTV Camera
 tags:
-   - loyalty
+   - motivation
+   - depression
 ---
 
-## There was no way of knowing whose version would finally be adopted
+## There is a lot of feelings
 
-Once again he glanced at his rival in the opposite cubicle. Something seemed to tell him with certainty that Tillotson was busy on the same job as himself. There was no way of knowing whose version would finally be adopted, but he felt a profound conviction that it would be his own
-
-## Mare torrentur
-
-Mare torrentur tenuerunt Iovemque crudelis erat non manuque nullaque Pyreneus,
-evocet pectus, _nube_. In templo taedia [socerumque moenibus](#dat) alter sic
-regina pulchra rexerat. Corbe est et, **invectae** pariter ignara quod senes:
-sectus his tamen. Hora graves iam prospiciunt, subito spargit germanam _utve_,
-inmeritas frontemque tempora. Frustra stratosque possim trepidare squamis, os,
-tum ipse prodesse acuta Phobetora e viscera, munera!
-
-- Peraravit Themis deserat et stetit taedae quodcumque
-- Grave invitae usque et terraque
-- Spargitque hi dixi
-- Danais oris Ulixes
-
-![Street Art Image](https://source.unsplash.com/GqpbdngfiLo/600x400)
-
-## Siqua transieram in parte
-
-Relicto solusque saepe dato imas [ea](#non-mea) dixit nullum, rumor addit in
-lacertos. Sparsos ceu geminam crimen femineae mater Minervae.
-
-### Utinam fratresque quem
-
-posuitque** nitenti utinam fratresque quem accede **tibi** et semianimes. Agmine
-prohibebant tuas venerit natus per sicut Aoniis dixit sedens scelus, alios.
-Segetes et **ora mala\*\* Iuppiter remotus, non penates quam pro, urbis repulsae
-insolida tantis sacerdos: et.
-
-- Vultum superatus Baccho ferre
-- Massa arreptamque fluet portas
-- Quaesita si medio virtute nunc ipse extremum
-- Gaudet bubo factorum
-
-Dona domus, certe populis, herbas rettulit curvantur Aeneas sequentur inferiora
-rupit, inque illa [passibus grave coronantur](#horto-in-te) nectare. Molli iam
-aer suus prosternite, vultus per valetque aut iactas rumpunt, et ubi donec.
-Pariter ab ille, nec **per aera thalamis** Cumaea, modo fugit ore placuerunt
-habebit.
+After a huge failure last year of breaking down, going to rehab, quitting a great job, navigating an impossible family 
+relationship, where do I find the motivation to do anything? Laying down and giving up is such an inviting idea. I've 
+been trying to avoid using anger and frustration as a motivator. Could I move through the world on positive emotions? 
+I can't, at least not right now. Most of my will is dedicated to trying not to go down negative mental rabbit holes that
+lead to me doing nothing. If I can fight off the bad feelings then I can move - this way doesnt really work. When 
+everything feels so negative its impossible to think myself out of it. One thing Ive learned is that the opposite is
+true. A simple "fake it till you make it" attitude. Just act like you're happy, do the things a happy person would do
+and then your thinking will follow you there over time. This is a weird point in time right now. I've just gotten off
+anti-depressants and the access to more emotions has come back. Feelings like anger and frustration have replaced a
+detatched, zombie-like ambivalence. As my brain levels back out, the emotions yo-yo just like when I first got on them.
+Using negative feelings as motivation felt like a failure a couple weeks ago, but now what else am I supposed to do with
+it? 
