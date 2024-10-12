@@ -5,8 +5,8 @@ description: 'Some lies are ok, sometimes. '
 image: images/cctv2.jpeg
 imageAltAttribute: CCTV Camera
 tags:
-  - motivation
-  - employment
+  - honesty
+  - expectations
 ---
 
 ## Lying for good
