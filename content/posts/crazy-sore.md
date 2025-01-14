@@ -1,13 +1,6 @@
 ---
 title: "Crazy Sore"
-date: 2025-01-08T07:08:15-06:00
-description: 'As soon as Winston had dealt with each of the messages, he clipped his speakwritten corrections to the appropriate copy of the Times and pushed them into the pneumatic tube. '
-image: images/cctv.jpeg
-draft: true
----
----
-title: "Crazy Sire"
-date: 2024-11-08T20:42:13-06:00
+date: 2025-01-14T20:42:13-06:00
 description: "I only open my editor to write these"
 image: images/cctv.jpeg
 imageAltAttribute: CCTV Camera
