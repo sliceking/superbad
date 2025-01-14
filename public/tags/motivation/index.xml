@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Superbad Software</title>
-    <link>//localhost:1313/posts/</link>
-    <description>Recent content in Blog on Superbad Software</description>
+    <title>Motivation on Superbad Software</title>
+    <link>//localhost:1313/tags/motivation/</link>
+    <description>Recent content in Motivation on Superbad Software</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Jan 2025 12:37:05 -0600</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/motivation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Extra Stuff</title>
       <link>//localhost:1313/posts/extra-stuff/</link>
@@ -37,13 +37,6 @@
       <description>&lt;h2 id=&#34;i-feel-good&#34;&gt;I feel good&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m surprised that things feel good. Work has been very good, lots of physical work but satisfying. Its so chaotic in the&#xA;restaurant, everyone is learning and trying to figure out the proper processes for everything. Its a mad house and I love&#xA;it. I &lt;em&gt;&lt;strong&gt;do&lt;/strong&gt;&lt;/em&gt; need to find a programming job though. I&amp;rsquo;ll want to keep doing this for the awesome food and custard and&#xA;everything fulfilling this job gives me, but I think realistically, I need that programmer money first. Maybe down the&#xA;line I can give owning a Culver&amp;rsquo;s a go, the pay for that is pretty good (300K-400K/yr) and its really a great company.&#xA;People I&amp;rsquo;ve met from the support or national team were excellent people, and one girl Hailey was outstanding. Patient&#xA;teacher, had all the good manager qualities, and also very attractive. She&amp;rsquo;s just become an owner at a store in Iowa&#xA;someplace.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Johnny Terilli</title>
-      <link>//localhost:1313/posts/johnnyterilli/</link>
-      <pubDate>Sun, 20 Oct 2024 14:22:04 -0500</pubDate>
-      <guid>//localhost:1313/posts/johnnyterilli/</guid>
-      <description>&lt;h2 id=&#34;johnny-terilli-is-sad&#34;&gt;Johnny Terilli is sad&lt;/h2&gt;&#xA;&lt;p&gt;Some people can&amp;rsquo;t accept things as they are. They need a reason. Their inability to go through life without being able&#xA;to tell themselves &amp;ldquo;I&amp;rsquo;m the best&amp;rdquo; is one of the glamorous causes of their problems. Lying to yourself, is an easy sport.&#xA;And its simple to win and convince yourself that your problems are so much worse than anyone else&amp;rsquo;s. You are a great hero,&#xA;a paragon, a martyr. Any input that says otherwise is due to a problem that someone else is going through. Its not honest,&#xA;its them working through their problems. The levels of manipulation and trickery these people will employ on others and&#xA;themselves to protect their precious story is one of the more depressive patterns in the world. If only you would dogfood&#xA;the things you were trying to say. You&amp;rsquo;d probably be better. But you don&amp;rsquo;t and you&amp;rsquo;re too old to change.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Workweek</title>
       <link>//localhost:1313/posts/workweek/</link>
       <pubDate>Fri, 18 Oct 2024 20:49:24 -0500</pubDate>
@@ -56,13 +49,6 @@
       <pubDate>Sat, 12 Oct 2024 18:00:09 -0500</pubDate>
       <guid>//localhost:1313/posts/employment-feelings/</guid>
       <description>&lt;h2 id=&#34;not-having-a-job&#34;&gt;Not having a job&lt;/h2&gt;&#xA;&lt;p&gt;My cat is big. Not really fat, just big. Big boned I suppose and about twenty pounds. A buff, which is another term for&#xA;light orange, American short-hair. The other week I spent a couple of days cat sitting for my friend and I got to spend&#xA;a lot of quality time with their cat. Her name was Surreal. She was a sweet, cuddly indoor/outdoor cat who knew that I&#xA;was her friend and a welcome source of petting, playing, love and affection. It was great. As far as cat software goes&#xA;she had some A+ cat code installed. Its always funny when I spend time around other cats, then come home to my cat and&#xA;remember how much of a monster she is compared to regular cats. Not quite Maine Coon, but still, quite enough. Nala, my&#xA;cat, is skittish, a big scaredy. She doesn&amp;rsquo;t trust anyone except me, which makes me feel special and its sort of&#xA;endearing, but I wish she would be more confident. This is a criticism I&amp;rsquo;ve heard made about me in recent years and,&#xA;yeah, I wish so too. I can remember the overflowing confidence of my 20s and I just don&amp;rsquo;t feel that way anymore. Sure&#xA;I can fake it, but being honest is so much easier. I dont want to trick people into liking a &amp;lsquo;for show&amp;rsquo; version of&#xA;myself. Did I teach my cat my un-confidence? That cant be possible, could it? I don&amp;rsquo;t think so. I remember taking her to&#xA;the vet during covid and one trip changed her attitude forever. She &lt;strong&gt;&lt;em&gt;WAS&lt;/em&gt;&lt;/strong&gt; a confident and fearless kitten. Curious&#xA;and wild, but after the one trip to the vet she was so afraid. I used to be able to touch her hands and cut her nails and&#xA;now cutting her nails is impossible. During covid you had to drop your animal outisde the door of the vet and then come&#xA;back an hourish later to pick them up. I feel like if I was able to go inside and be with her in the vet this wouldnt have&#xA;happened. As a scared cat I still love her, but I wish she would demand pets, I wish I could carry her and that awkward&#xA;sounds wouldnt set her off. I&amp;rsquo;ve done a lot to try to un-shy her. Maybe she needs a little friend, a brother or a sister&#xA;to show her the ways of wild cat youth. To inspire her to relax and open up.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lying Expectations</title>
-      <link>//localhost:1313/posts/lying-expectations/</link>
-      <pubDate>Fri, 11 Oct 2024 18:50:14 -0500</pubDate>
-      <guid>//localhost:1313/posts/lying-expectations/</guid>
-      <description>&lt;h2 id=&#34;lying-for-good&#34;&gt;Lying for good&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been mulling ideas about lying over for a couple days. Telling the truth is the easiest way forward, generally, but&#xA;there are edge cases. Like the Japanese grandmother where her family knew she had fatal cancer and lied to her. They let&#xA;her think she was healthy, so she wouldn&amp;rsquo;t get sad and depressed and could live out her days without worrying about&#xA;the things that come with a stage 4 diagnosis. I think she ended up living a couple years longer than was expected. Is&#xA;this a good lie? For her, maybe. If I was her family, I would have felt conflicted. I&amp;rsquo;ve been lied and been lied to&#xA;plenty of times through omission and being on either side doesn&amp;rsquo;t feel good. The spirit of the grandmother lie is good&#xA;but the follow through still results in bad feelings for family like me. That&amp;rsquo;s expected, death is rough in any situation&#xA;but I&amp;rsquo;m not really convinced its good. There&amp;rsquo;s a certain type of person and situation where it is the best, most moral&#xA;action but that situation probably wouldn&amp;rsquo;t involve me. Lying for a good reason, and getting a good result - thats good.&#xA;Lying for a bad reason and getting a bad result - I suppose thats good in terms of expectations but the morality isn&amp;rsquo;t.&#xA;The other variations good reason bad result/bad reason good result, are big problems. This isnt really going anywhere.&#xA;Life has gotten a lot simpler. A whole category of problems has been removed after choosing to be honest at all times,&#xA;even if you might hurt someone&amp;rsquo;s feelings.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Working Plan</title>
@@ -84,20 +70,6 @@
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/language-perfect/</guid>
       <description>&lt;h2 id=&#34;betrayal-and-character-assassination&#34;&gt;Betrayal and character assassination&lt;/h2&gt;&#xA;&lt;p&gt;Why do people punish themselves? Pride. Sometimes in weird places, sometimes in obvious ones. Write from the scar, not&#xA;from the wound. Itll be too emotional if its from an open wound. Thats pretty good advice. Getting away for a few days&#xA;is great to reflect and figure out what I&amp;rsquo;m doing with myself. Its been a lot of nothing, starving, depression. Not good.&#xA;Having someone to yell at you and rile you up is a strange bonus. I can use any negative feelings as fuel to get things&#xA;done, but I&amp;rsquo;ve been trying to avoid that for a while. Can&amp;rsquo;t I find enough positive emotions to use as a motivation&#xA;source? It doesnt look like it, at least not right now. It was a decent experiment.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>It&#39;s a beautiful thing, the destruction of words</title>
-      <link>//localhost:1313/posts/destruction-of-words/</link>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/destruction-of-words/</guid>
-      <description>&lt;h2 id=&#34;not-convincing-enough&#34;&gt;Not convincing enough&lt;/h2&gt;&#xA;&lt;p&gt;Trying to convince someone not to lie is a rough game. Especially if the lies are to themselves. The amount of depression&#xA;and gaslighting that&amp;rsquo;s come out of me trying to get my mother to be honest has been a challenge. It can&amp;rsquo;t be done.&#xA;Changing other people, if they don&amp;rsquo;t want to, is impossible, and if its not then its probably through some illegal means.&#xA;I suppose I need to be more selfish. Not think about this. Just be a good person and not try to control anyone else, even&#xA;if I&amp;rsquo;m right, or trying to help or whatever reason I can come up with. Patience, honesty, serenity feel like easy goals&#xA;until something pops up. There&amp;rsquo;s always some event or topic or trigger where that goes out the window. If I ate better&#xA;I would be better, stress will take my appetite away and the lack of food will fuel my anxiety.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Who controls the past.</title>
-      <link>//localhost:1313/posts/controls-the-past/</link>
-      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/controls-the-past/</guid>
-      <description>&lt;h2 id=&#34;i-have-too-many-expectations-of-my-mom&#34;&gt;I have too many expectations of my mom&lt;/h2&gt;&#xA;&lt;p&gt;Shes getting old and her judgement is beginning to go. The other month she was sure she&amp;rsquo;d been texting Elon Musk and he&#xA;was waiting on her gift cards so he could finish delivering a Tesla and 100K to her. Part of me is fighting with her,&#xA;trying to reason things out with her to show her how to watch out for traps like this. Another part is fighting reality,&#xA;I don&amp;rsquo;t want to admit that her thinking is so compromised. That its just going to get harder for her to understand me.&#xA;She&amp;rsquo;s doing it too, she&amp;rsquo;s fighting the fact she&amp;rsquo;s going to die, that her thinking has gotten worse, constantly telling&#xA;herself she&amp;rsquo;s not as bad as someone else in the Assisted Living Facility. It must be terrible to be in your 70s and be&#xA;afraid of death and aging. Knowing that your father and sister suffered from dementia and that you are next in line. If&#xA;I don&amp;rsquo;t think about it then its not happening. I wish that were the case. I wish I could do something to remove her&#xA;insecurities, find her some friends, stop her from judging herself and others. She&amp;rsquo;s been alone too long and her pride&#xA;is being used to keep her ego afloat. I can just try to show her I love her, even though she won&amp;rsquo;t understand it.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
