@@ -1,12 +1,12 @@
 ---
 title: "Extra Stuff"
 date: 2025-01-14T12:37:05-06:00
-description: 'Shes such a scaredy cat'
+description: 'mastermind? mastersleep'
 image: images/cctv2.jpeg
 imageAltAttribute: CCTV Camera
 tags:
   - motivation
-  - acceptance
+  - change
 ---
 
 ## The back of house is crazy but simple to be focused
