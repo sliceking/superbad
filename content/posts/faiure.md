@@ -1,7 +1,7 @@
 ---
 title: "Faiure"
 date: 2025-03-15T16:41:45-05:00
-escription: "failure is an escape"
+description: "failure is an escape"
 image: images/cctv.jpeg
 imageAltAttribute: CCTV Camera
 tags:
